@@ -1,0 +1,4 @@
+./tmp/한국어	./tmp/korean
+./tmp/korean	./tmp/한국어
+./tmp/日本語	./tmp/japanese
+./tmp/japanese	./tmp/日本語
